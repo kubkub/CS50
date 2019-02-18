@@ -4,7 +4,8 @@
  int main()
  {
  	printf("Hello, Dcoder!\n");
- 	printf("Hello Alex!");
+ 	printf("Hello Alex!\n");
+ 	printf("Helo World!\n")
  	return 0;
  }
     
