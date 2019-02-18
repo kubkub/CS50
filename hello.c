@@ -5,7 +5,7 @@
  {
  	printf("Hello, Dcoder!\n");
  	printf("Hello Alex!\n");
- 	printf("Helo World!\n")
+ 	printf("Helo World!\n");
  	return 0;
  }
     
